@@ -5,7 +5,11 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{B1BED4AD-4920-434D-B37C-87C889937CE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ParazyanAI.Sprint0.Task0.V0", "Tyuiu.ParazyanAI.Sprint0.Task0.V0\Tyuiu.ParazyanAI.Sprint0.Task0.V0.csproj", "{EF6D347F-B4D7-488B-BD5F-232DD792E383}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ParazyanaAI.Sprint0.Task0.V0", "Tyuiu.ParazyanAI.Sprint0.Task0.V0\Tyuiu.ParazyanaAI.Sprint0.Task0.V0.csproj", "{EF6D347F-B4D7-488B-BD5F-232DD792E383}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{83C288C9-FD36-467C-A96A-91F769DD8463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ParazyanaAI.Sprint0.Task1.v0", "Tyuiu.ParazyanAI.Sprint0.Task1.v0\Tyuiu.ParazyanaAI.Sprint0.Task1.v0.csproj", "{640D663A-CE5E-4F57-83E6-D11160050AE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{EF6D347F-B4D7-488B-BD5F-232DD792E383}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF6D347F-B4D7-488B-BD5F-232DD792E383}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF6D347F-B4D7-488B-BD5F-232DD792E383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640D663A-CE5E-4F57-83E6-D11160050AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640D663A-CE5E-4F57-83E6-D11160050AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640D663A-CE5E-4F57-83E6-D11160050AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640D663A-CE5E-4F57-83E6-D11160050AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EF6D347F-B4D7-488B-BD5F-232DD792E383} = {B1BED4AD-4920-434D-B37C-87C889937CE7}
+		{640D663A-CE5E-4F57-83E6-D11160050AE0} = {83C288C9-FD36-467C-A96A-91F769DD8463}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8281AB90-F62A-4DD3-845C-006FA77DCEAD}

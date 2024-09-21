@@ -26,10 +26,6 @@ namespace Tyuiu.ParazyanAI.Sprint0.Task4.V0.Lib
         }
 
 
-        public static double Division(int a, int b)
-        {
-            return a / b;
-        }
-
+        public static double Division(int a, int b) => a / b;
     }
 }
